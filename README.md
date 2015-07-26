@@ -1,2 +1,2 @@
 # ION-Reseller-WHMCS-Module
-WHMCS Module for HugeServer Resellers!
+WHMCS v6 Module for HugeServer Resellers!
