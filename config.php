@@ -8,6 +8,7 @@ define( 'LINUX_VPN','#' );
 define( 'WIN_VPN','#' );
 define( 'MAC_VPN','#' );
 
+// default access list for clients. this can be changed individually for each client on his/her service page
 $accessList = array(
     'server_info'   => '1',
     'vpn'           => '1',
