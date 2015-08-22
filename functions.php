@@ -1,4 +1,10 @@
 <?php
+/**
+ * WHMCS v6 Module for HugeServer Resellers
+ *
+ * @author   HugeServer Networks, LLC - Development Team
+ */
+ 
 include_once __DIR__ . "/config.php";
 function ion_mcrypt( $value ) {
    $hash = ION_HASH;
