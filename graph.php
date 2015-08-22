@@ -1,4 +1,10 @@
 <?php
+/**
+ * WHMCS v6 Module for HugeServer Resellers
+ *
+ * @author   HugeServer Networks, LLC - Development Team
+ */
+
    include_once 'config.php';
    include "functions.php";
    include "api.php";
