@@ -1,4 +1,9 @@
 <?php
+/**
+ * WHMCS v6 Module for HugeServer Resellers
+ *
+ * @author   HugeServer Networks, LLC - Development Team
+ */
 
 class APIClient
 {
