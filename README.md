@@ -8,7 +8,8 @@ Features
 * Get Server Specification
 * VPN Access for Clients
 * Bandwidth Graph
-* Bandwidth Statics rDNS Control
+* Bandwidth Statics 
+* rDNS Control
 * IPMI Console (requires VPN connection)
 * IP Address lists
 * Power Control
